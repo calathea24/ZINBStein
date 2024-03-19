@@ -34,7 +34,7 @@ You can install the development version of ZINBStein like so:
 # 1st version is released and installed from gitHub
 install.packages("devtools")
 library(devtools)
-install_github("calathea24/ZINBGraphicalModel") ## will change name of repository later on
+install_github("calathea24/ZINBStein") ## will change name of repository later on
 
 ```
 
