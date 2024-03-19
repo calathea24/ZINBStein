@@ -1,7 +1,7 @@
-
 # ZINBStein
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 The goal of ZINBStein is to ...
@@ -23,4 +23,3 @@ This is a basic example which shows you how to solve a common problem:
 library(ZINBStein)
 ## basic example code
 ```
-
